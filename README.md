@@ -1,1 +1,1 @@
-# discrete_opt_melb
+# Discrete Optimization Coursera Course
